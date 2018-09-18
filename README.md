@@ -10,3 +10,7 @@
 * [Support Vector Machine](http://scikit-learn.org/stable/modules/svm.html)
 * [Implementing svm and kernel svm with scikit learn](https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/) 
 * [Plot SVM regression](https://plot.ly/scikit-learn/plot-svm-regression/)
+
+## Generalized Linear Models
+* http://scikit-learn.org/stable/modules/linear_model.html
+* http://www.codingtricks.biz/generalized-linear-regression-python-scikit-learn-library/
